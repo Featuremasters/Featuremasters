@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Featuremaster
 - 👀 I’m interested in DEVOPS and cloud stuffs
 - 🌱 I’m currently learning.... Kubernetes in aws
-- 📫 How to reach me... naveenlakshmanan199@gmail.com
+- 📫 How to reach me... naveenlakshmanan25@gmail.com
 - ⚡ Fun fact: ...just for kicks,I started cloud and devops and now it’s a hitting more than sleep😅
